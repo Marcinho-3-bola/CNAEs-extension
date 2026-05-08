@@ -33,11 +33,11 @@ Busca por lista de códigos colados manualmente ou diretamente pelo **CNPJ** da 
 Disponível em breve na [Chrome Web Store](#).
 
 ### Manualmente (modo desenvolvedor)
-1. Baixe ou clone este repositório
-2. Acesse `chrome://extensions` no Chrome
-3. Ative o **Modo do desenvolvedor** (canto superior direito)
-4. Clique em **"Carregar sem compactação"**
-5. Selecione a pasta `cnae-extension`
+1. Baixe o [release](https://github.com/Marcinho-3-bola/CNAEs-extension/releases) mais recente.
+2. Acesse `chrome://extensions` no Chrome.
+3. Ative o **Modo do desenvolvedor** (canto superior direito).
+4. Clique em **"Carregar sem compactação"**.
+5. Selecione a pasta `cnae-extension`.
 
 ---
 
