@@ -87,7 +87,7 @@ cnae-extension/
 
 ## 📄 Licença
 
-MIT License — sinta-se livre para usar, modificar e distribuir.
+GNU GENERAL PUBLIC LICENSE
 
 ---
 
