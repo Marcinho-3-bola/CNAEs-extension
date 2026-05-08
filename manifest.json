@@ -1,9 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "Classificador CNAEs",
-  "version": "2.0",
+  "name": "Classificador CNAE",
+  "version": "2.1",
   "description": "Classifica CNAEs em Serviço, Comércio ou Indústria com Anexo do Simples Nacional",
   "permissions": [],
+  "host_permissions": [
+    "https://brasilapi.com.br/*",
+    "https://receitaws.com.br/*"
+  ],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
