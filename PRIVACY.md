@@ -1,10 +1,10 @@
-# Política de Privacidade — Classificador CNAE
+# Política de Privacidade — Classificador CNAEs
 
-**Última atualização:** maio de 2025
+**Última atualização:** maio de 2026
 
 ## 1. Coleta de Dados
 
-O Classificador CNAE **não coleta, armazena, transmite nem compartilha** nenhum dado pessoal dos usuários.
+O Classificador de CNAEs **não coleta, armazena, transmite nem compartilha** nenhum dado pessoal dos usuários.
 
 ## 2. Uso do CNPJ
 
