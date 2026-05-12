@@ -30,11 +30,11 @@ Busca por lista de códigos colados manualmente ou diretamente pelo **CNPJ** da 
 ## 🚀 Instalação
 
 ### Via Chrome Web Store
-Disponível em breve na [Chrome Web Store](#).
+Disponível na [Chrome Web Store](https://chromewebstore.google.com/detail/abclbodhekcplogigbkpppnbgmmdpckn).
 
 ### Manualmente (modo desenvolvedor)
 1. Baixe o [release](https://github.com/Marcinho-3-bola/CNAEs-extension/releases) mais recente.
-2. Acesse `chrome://extensions` no Chrome.
+2. Acesse `chrome://extensions` no Navegador.
 3. Ative o **Modo do desenvolvedor** (canto superior direito).
 4. Clique em **"Carregar sem compactação"**.
 5. Selecione a pasta `cnae-extension`.
@@ -87,7 +87,7 @@ cnae-extension/
 
 ## 📄 Licença
 
-GNU GENERAL PUBLIC LICENSE
+Este projeto está licenciado sob a [GNU General Public License v3.0](LICENSE).
 
 ---
 
